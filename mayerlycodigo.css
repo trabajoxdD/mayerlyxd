@@ -1,0 +1,182 @@
+.project {
+  font-family: forte;
+  position: absolute;
+  top: -20px;
+  left: 10px;
+  font-size: 40px;
+}
+
+.title {
+  font-family: forte;
+  text-align: center;
+  top: 25px;
+  left: 10px;
+  font-size: 50px;
+  color: yellow;
+
+}
+
+.nombre {
+  color: green;
+  font-size: 20px;
+       position: absolute;
+  top: 600px;
+  left: 50px;
+  font-family:Cooper Black ;
+}
+
+.draggable{
+  font-family: forte;
+  position: absolute;
+  top: -10px;
+  left: 450px;
+  font-size: 50px;
+  color: yellow;
+
+}
+.banana-square {
+  font-family: forte;
+  text-align: center;
+  color: yellow;
+  width: 200px;
+  height: 80px;
+  background-color: #ccc;
+   margin: auto;
+   position: absolute;
+  top: 150px;
+  left: 25px;
+  font-size: 40px;
+}
+
+.imagen2{
+    position: absolute;
+  top: 180px; 
+  left: -50px;
+    width: 130px; 
+  height: auto; 
+}
+
+.imagen3{
+    position: absolute;
+  top: 180px; 
+  left: 220px;
+    width: 130px; 
+  height: auto; 
+}
+
+.imagen4{
+    position: absolute;
+  top: 350px; 
+  left: 85px;
+    width: 130px; 
+  height: auto; 
+}
+
+.imagen5{
+    position: absolute;
+  top: 350px; 
+  left: -300px;
+    width: 130px; 
+  height: auto; 
+}
+.class {
+  font-family: forte;
+  color: yellow;
+  font-size: 40px;
+  position: absolute;
+  top: 250px;
+  left: 20px;
+  width: 220px;
+  height: 100px;
+  background-color: #ccc;
+   margin: auto;
+
+}
+
+.Ronaldo {
+  font-family: forte;
+  color: yellow;
+  font-size: 40px;
+  position: absolute;
+  top: 360px;
+  left: 20px;
+  width: 220px;
+  height: 100px;
+  background-color: #ccc;
+   margin: auto;
+
+}
+
+.granadilla {
+  font-family: forte;
+  color: yellow;
+  font-size: 40px;
+  position: absolute;
+  top: 480px;
+  left: 20px;
+  width: 220px;
+  height: 100px;
+  background-color: #ccc;
+   margin: auto;
+
+}
+.study-base {
+  color: green;
+  font-family: forte;
+  text-align: center;
+  position: absolute;
+  top: 150px;
+  right: 100px;
+  font-size: 20px;
+   width: 310px;
+  height: 180px;
+  background-color: #ccc;
+   margin: auto;
+}
+
+.image-container {
+  display: flex;
+}
+
+.website-name {
+  font-family: forte;
+  position: absolute;
+  bottom: 10px;
+  left: 10px;
+}
+
+.button1 {
+  color: green;
+  font-size: 20px;
+  display: block;
+  width: fit-content;
+  margin: auto;
+  font-family: Cooper Black;
+  position: absolute;
+  bottom: 310px;
+  left: 65px;
+}
+
+.button2 {
+  color: green;
+  font-size: 20px;
+  display: block;
+  width: fit-content;
+  margin: auto;
+  font-family: Cooper Black;
+  position: absolute;
+  bottom: 200px;
+  left: 65px;
+}
+
+.button3 {
+  color: green;
+  font-size: 20px;
+  display: block;
+  width: fit-content;
+  margin: auto;
+  font-family: Cooper Black;
+  position: absolute;
+  bottom: 80px;
+  left: 65px;
+}
